@@ -1,0 +1,17 @@
+body{
+    background-color: coral;
+}
+
+header{
+    background-color: darkcyan;
+    overflow: auto;
+    padding: 15px;
+}
+
+header .appname {
+    float: left;
+}
+
+header .loggedin {
+    float: right;
+}
